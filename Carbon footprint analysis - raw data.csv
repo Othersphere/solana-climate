@@ -1,0 +1,313 @@
+﻿Data Center Key,Location,Country/ Region,"Country or state power emissions intensity factor
+(gCO2 /kWh)",Data center intensity % below national/ state level,"Net data center emissions intensity
+(gCO2 /kWh)","Emissions category
+(tertiles, 1=lowest emissions)",Emissions intensity source,"Accounts per data center
+(as of 8/27/22)","Share of total accounts
+(as of 8/27/22)","Weighted emissions factor
+(gCO2 /kWh, as of 8/27/22)"
+24940-DE-Falkenstein,Falkenstein,DE,314,100%,0,1,EEA,379,16.90%,0
+24940-FI-Helsinki,Helsinki,FI,64,100%,0,1,EEA,310,13.90%,0
+24940-DE-Nuremburg,Nuremburg,DE,314,100%,0,1,EEA,138,6.20%,0
+16276-FR-Roubaix,Roubaix,FR,60,0%,60,1,EEA,95,4.20%,2.55
+16276-CA-Beauharnois,Beauharnois,CA (QB),2,0%,2,1,UNFCC,83,3.70%,0.06
+23470-US-New York,New York,US (NY),171,0%,171,1,USEPA,77,3.40%,5.9
+16276-FR-Gravelines,Gravelines,FR,60,0%,60,1,EEA,70,3.10%,1.88
+16276-EN-London,London,GB/EN,228,0%,228,1,EEA,60,2.70%,6.12
+16276-FR-Strasbourg,Strasbourg,FR,60,0%,60,1,EEA,57,2.50%,1.53
+18450-US-Ogden,Ogden,US (UT),723,0%,723,3,USEPA,57,2.50%,18.43
+16276-DE-Frankfurt,Frankfurt,DE,314,0%,314,2,EEA,55,2.50%,7.72
+16276-PL-Warsaw,Warsaw,PL,710,0%,710,3,EEA,55,2.50%,17.46
+23470-US-Miami,Miami,US (FL),397,0%,397,2,USEPA,42,1.90%,7.46
+18450-US-America/Chicago,Chicago,US (IL),328,0%,328,2,USEPA,36,1.60%,5.28
+19318-US-America/Chicago,Chicago,US (IL),328,0%,328,2,USEPA,28,1.30%,4.1
+201814-PL-Europe/Warsaw,Warsaw,PL,710,0%,710,3,EEA,26,1.20%,8.25
+16509-IE-Dublin,Dublin,IE,281,0%,281,2,EEA,25,1.10%,3.14
+18450-US-Los Angeles,Los Angeles,US (CA),175,0%,175,1,USEPA,14,0.60%,1.1
+16143-RU-Moscow,Moscow,RU,362,0%,362,2,Statista,13,0.60%,2.1
+24940-DE-Europe/Berlin,Berlin,DE,314,0%,314,2,EEA,12,0.50%,1.69
+20326-NL-Amsterdam,Amsterdam,NL,333,0%,333,2,EEA,12,0.50%,1.79
+54825-GB-London,London,GB/EN,228,0%,228,1,EEA,11,0.50%,1.12
+58061-NL-Dronten,Amsterdam,NL,333,0%,333,2,EEA,11,0.50%,1.64
+19318-US-Secaucus,Secaucus,US (NJ),247,0%,247,1,USEPA,11,0.50%,1.21
+21409-FR-Europe/Paris,Paris,FR,60,0%,60,1,EEA,10,0.40%,0.27
+48314-DE-Europe/Berlin,Berlin,DE,314,0%,314,2,EEA,9,0.40%,1.26
+29182-RU-Moscow,Moscow,RU,362,0%,362,2,Statista,9,0.40%,1.46
+41786-RU-Yoshkar-Ola,Yoshkar Ola,RU,362,0%,362,2,Statista,9,0.40%,1.46
+16509-US-Columbus,Columbus,US (OH),562,0%,562,3,USEPA,9,0.40%,2.26
+16276-FR-Europe/Paris,Paris,FR,60,0%,60,1,EEA,8,0.40%,0.21
+9009-RO-Bucharest,Bucharest,RO,255,0%,255,2,EEA,8,0.40%,0.91
+13830-US-Dallas,Dallas,US (TX),413,0%,413,2,USEPA,8,0.40%,1.48
+54825-NL-Amsterdam,Amsterdam,NL,333,0%,333,2,EEA,7,0.30%,1.04
+3255-UA-Kyiv,Kyiv,UA,393,0%,393,2,Statista,7,0.30%,1.23
+397086-US-America/Chicago,Chicago,US (IL),328,0%,328,2,USEPA,7,0.30%,1.03
+19318-US-New York,New York,US (NY),171,0%,171,1,USEPA,7,0.30%,0.54
+20326-US-Pittsburgh,Pittsburgh,US (PA),343,0%,343,2,USEPA,7,0.30%,1.07
+31898-US-Ashburn,Ashburn,US (VA),288,0%,288,2,USEPA,7,0.30%,0.9
+24961-DE-Europe/Berlin,Berlin,DE,314,0%,314,2,EEA,6,0.30%,0.84
+51167-DE-Düsseldorf,Düsseldorf,DE,314,0%,314,2,EEA,6,0.30%,0.84
+58061-GB-Europe/London,London,GB/EN,228,0%,228,1,EEA,6,0.30%,0.61
+16509-US-Boardman,Boardman,US (OR),324,0%,324,2,USEPA,6,0.30%,0.87
+14618-US-Ashburn,Ashburn,US (VA),288,0%,288,2,USEPA,6,0.30%,0.77
+54825-CA-Toronto,Toronto,CA (ON),25,0%,25,1,UNFCC,5,0.20%,0.06
+54825-FR-Pantin,Pantin,FR,60,0%,60,1,EEA,5,0.20%,0.13
+16125-LT-Europe/Vilnius,Vilnius,LT,165,0%,165,1,EEA,5,0.20%,0.37
+23470-US-Los Angeles,Los Angeles,US (CA),175,0%,175,1,USEPA,5,0.20%,0.39
+22612-US-America/Chicago,Chicago,US (IL),328,0%,328,2,USEPA,5,0.20%,0.73
+396356-US-New York,New York,US (NY),171,0%,171,1,USEPA,5,0.20%,0.38
+18450-US-Clearfield,Clearfield,US (UT),723,0%,723,3,USEPA,5,0.20%,1.62
+397423-US-Ashburn,Ashburn,US (VA),288,0%,288,2,USEPA,5,0.20%,0.64
+12212-CA-Toronto,Toronto,CA (ON),25,0%,25,1,UNFCC,4,0.20%,0.04
+54825-DE-Frankfurt am Main,Frankfurt,DE,314,0%,314,2,EEA,4,0.20%,0.56
+54825-HK-Kwai Chung,Hong Kong,HK,710,0%,710,3,HK Electric,4,0.20%,1.27
+20326-IE-Dublin,Dublin,IE,281,0%,281,2,EEA,4,0.20%,0.5
+54825-NL-Schiphol,Schiphol,NL,333,0%,333,2,EEA,4,0.20%,0.6
+41668-RU-Kazan,Kazan,RU,362,0%,362,2,Statista,4,0.20%,0.65
+16509-SG-Singapore,Singapore,SG,408,0%,408,2,EMA,4,0.20%,0.73
+59577-UA-Lviv,Lviv,UA,393,0%,393,2,Statista,4,0.20%,0.7
+33438-US-America/Chicago,Chicago,US (IL),328,0%,328,2,USEPA,4,0.20%,0.59
+22439-US-America/Chicago,Chicago,US (IL),328,0%,328,2,USEPA,4,0.20%,0.59
+55286-US-Piscataway,Piscataway,US (NJ),247,0%,247,1,USEPA,4,0.20%,0.44
+16276-CA-America/Toronto,Toronto,CA (ON),25,0%,25,1,UNFCC,3,0.10%,0.03
+31898-DE-Frankfurt am Main,Frankfurt,DE,314,0%,314,2,EEA,3,0.10%,0.42
+24940-DE-Gunzenhausen,Gunzehausen,DE,314,0%,314,2,EEA,3,0.10%,0.42
+54825-ES-Madrid,Madrid,ES,177,0%,177,1,EEA,3,0.10%,0.24
+16276-GB-London,London,GB/EN,228,0%,228,1,EEA,3,0.10%,0.31
+20326-GB-London,London,GB/EN,228,0%,228,1,EEA,3,0.10%,0.31
+16509-JP-Tokyo,Tokyo,JP,496,0%,496,2,UNFCC,3,0.10%,0.67
+20326-JP-Tokyo,Tokyo,JP,496,0%,496,2,UNFCC,3,0.10%,0.67
+54825-JP-Tokyo,Tokyo,JP,496,0%,496,2,UNFCC,3,0.10%,0.67
+7979-NL-Europe/Amsterdam,Amsterdam,NL,333,0%,333,2,EEA,3,0.10%,0.45
+41275-RU-Moscow,Moscow,RU,362,0%,362,2,Statista,3,0.10%,0.49
+212695-UA-Kivertsi,Kivertsi,UA,393,0%,393,2,Statista,3,0.10%,0.53
+35320-UA-Lviv,Lviv,UA,393,0%,393,2,Statista,3,0.10%,0.53
+396356-US-Los Angeles,Los Angeles,US (CA),175,0%,175,1,USEPA,3,0.10%,0.24
+19318-US-Bethel,Bethel,US (CT),204,0%,204,1,USEPA,3,0.10%,0.27
+29802-US-Miami,Miami,US (FL),391,0%,391,2,USEPA,3,0.10%,0.52
+15169-US-Council Bluffs,Council Bluffs,US (IA),389,0%,389,2,USEPA,3,0.10%,0.52
+3356-US-America/Chicago,Chicago,US (IL),328,0%,328,2,USEPA,3,0.10%,0.44
+14618-US-America/Chicago,Chicago,US (IL),328,0%,328,2,USEPA,3,0.10%,0.44
+54825-US-Chicago,Chicago,US (IL),328,0%,328,2,USEPA,3,0.10%,0.44
+54825-US-Secaucus,Secaucus,US (NJ),247,0%,247,1,USEPA,3,0.10%,0.33
+19318-US-Bloomfield,Bloomfield,US (NJ),247,0%,247,1,USEPA,3,0.10%,0.33
+19318-US-America/New_York,New York,US (NY),171,0%,171,1,USEPA,3,0.10%,0.23
+20326-US-Saxonburg,Saxonburg,US (PA),343,0%,343,2,USEPA,3,0.10%,0.46
+54825-US-Dallas,Dallas,US (TX),413,0%,413,2,USEPA,3,0.10%,0.55
+6939-CA-Vancouver,Vancouver,CA (BC),7,0%,7,1,UNFCC,2,0.10%,0.01
+13030-CH-Aarburg,Aarburg,CH,14,0%,14,1,CF,2,0.10%,0.01
+25248-CZ-Krucemburk,Krucemburk,CZ,437,0%,437,2,EEA,2,0.10%,0.39
+16509-DE-Frankfurt am Main,Frankfurt,DE,314,0%,314,2,EEA,2,0.10%,0.28
+24961-DE-Andernach,Andernach,DE,314,0%,314,2,EEA,2,0.10%,0.28
+199610-DE-Frankfurt,Frankfurt,DE,314,0%,314,2,EEA,2,0.10%,0.28
+199610-DE-Frankfurt am Main,Frankfurt,DE,314,0%,314,2,EEA,2,0.10%,0.28
+54825-FR-Marseille,Marseille,FR,60,0%,60,1,EEA,2,0.10%,0.05
+60945-GB-Europe/London,London,GB/EN,228,0%,228,1,EEA,2,0.10%,0.2
+18450-HK-Asia/Hong_Kong,Hong Kong,HK,710,0%,710,3,HK Electric,2,0.10%,0.64
+16509-IN-Mumbai,Mumbai,IN,743,0%,743,3,CF,2,0.10%,0.66
+45102-JP-Tokyo,Tokyo,JP,496,0%,496,2,UNFCC,2,0.10%,0.44
+20473-JP-Heiwajima,Heiwajima,JP,496,0%,496,2,UNFCC,2,0.10%,0.44
+2588-LV-Riga,Riga,LV,113,0%,113,1,EEA,2,0.10%,0.1
+206264-NL-Amsterdam,Amsterdam,NL,333,0%,333,2,EEA,2,0.10%,0.3
+29802-NL-Amsterdam,Amsterdam,NL,333,0%,333,2,EEA,2,0.10%,0.3
+34989-NO-Oslo,Oslo,NO,11,0%,11,1,CF,2,0.10%,0.01
+50304-NO-Oslo,Oslo,NO,11,0%,11,1,CF,2,0.10%,0.01
+56694-RU-Europe/Moscow,Moscow,RU,362,0%,362,2,Statista,2,0.10%,0.32
+57128-RU-Kazan,Kazan,RU,362,0%,362,2,Statista,2,0.10%,0.32
+57378-RU-Rostov-on-Don,Rostov on Don,RU,362,0%,362,2,Statista,2,0.10%,0.32
+34757-RU-Novosibirsk,Novosibirsk,RU,362,0%,362,2,Statista,2,0.10%,0.32
+56418-RU-Moscow,Moscow,RU,362,0%,362,2,Statista,2,0.10%,0.32
+50867-RU-Moscow,Moscow,RU,362,0%,362,2,Statista,2,0.10%,0.32
+54825-SG-Jurong West,Singapore,SG,408,0%,408,2,EMA,2,0.10%,0.36
+55430-SG-Singapore,Singapore,SG,408,0%,408,2,EMA,2,0.10%,0.36
+15169-TW-New Taipei,New Taipei,TW,509,0%,509,2,MOEABOE,2,0.10%,0.46
+3255-UA-Lviv,Lviv,UA,393,0%,393,2,Statista,2,0.10%,0.35
+31148-UA-Dnipro,Dnipro,UA,393,0%,393,2,Statista,2,0.10%,0.35
+18450-US-El Segundo,El Segundo,US (CA),175,0%,175,1,USEPA,2,0.10%,0.16
+54825-US-Los Angeles,Los Angeles,US (CA),175,0%,175,1,USEPA,2,0.10%,0.16
+19318-US-Canoga Park,Los Angeles,US (CA),175,0%,175,1,USEPA,2,0.10%,0.16
+54825-US-Sunnyvale,Sunnyvale,US (CA),175,0%,175,1,USEPA,2,0.10%,0.16
+398427-US-Cambridge,Cambridge,US (MA),351,0%,351,2,USEPA,2,0.10%,0.31
+18450-US-Escanaba,Escanaba,US (MI),458,0%,458,2,USEPA,2,0.10%,0.41
+54825-US-Parsippany,Parsippany,US (NJ),247,0%,247,1,USEPA,2,0.10%,0.22
+396356-US-Dallas,Dallas,US (TX),413,0%,413,2,USEPA,2,0.10%,0.37
+54825-US-Ashburn,Ashburn,US (VA),288,0%,288,2,USEPA,2,0.10%,0.26
+40021-US-Seattle,Seattle,US (WA),135,0%,135,1,USEPA,2,0.10%,0.12
+200851-AE-Dubai,Dubai,AE,433,0%,433,2,CF,1,0.00%,0.19
+4804-AU-Coorparoo,Coorparoo,AU,656,0%,656,3,Statista,1,0.00%,0.29
+396477-CA-Ottawa,Ottawa,CA (ON),25,0%,25,1,UNFCC,1,0.00%,0.01
+60251-CH-Europe/Zurich,Zurich,CH,14,0%,14,1,CF,1,0.00%,0.01
+37963-CN-Asia/Shanghai,Shanghai,CN,555,0%,555,3,CT,1,0.00%,0.25
+37963-CN-Beijing,Shanghai,CN,555,0%,555,3,CT,1,0.00%,0.25
+37963-CN-Shenzhen,Shenzhen,CN,555,0%,555,3,CT,1,0.00%,0.25
+56047-CN-Asia/Shanghai,Shanghai,CN,555,0%,555,3,CT,1,0.00%,0.25
+202618-CZ-Prague,Prague,CZ,437,0%,437,2,EEA,1,0.00%,0.2
+199610-DE-Karlsruhe,Karlsuhe,DE,314,0%,314,2,EEA,1,0.00%,0.14
+15169-DE-Frankfurt am Main,Frankfurt,DE,314,0%,314,2,EEA,1,0.00%,0.14
+29014-DE-Berlin,Berlin,DE,314,0%,314,2,EEA,1,0.00%,0.14
+15598-DE-Munich,Munich,DE,314,0%,314,2,EEA,1,0.00%,0.14
+15830-DE-Munich,Munich,DE,314,0%,314,2,EEA,1,0.00%,0.14
+24940-DE-Hammoor,Hammoor,DE,314,0%,314,2,EEA,1,0.00%,0.14
+24940-DE-Munich,Munich,DE,314,0%,314,2,EEA,1,0.00%,0.14
+24940-DE-Rottweil,Rottweil,DE,314,0%,314,2,EEA,1,0.00%,0.14
+24940-DE-Stuttgart,Stuttgart,DE,314,0%,314,2,EEA,1,0.00%,0.14
+24940-DE-Mainz,Mainz,DE,314,0%,314,2,EEA,1,0.00%,0.14
+42989-DE-Frankfurt am Main,Frankfurt,DE,314,0%,314,2,EEA,1,0.00%,0.14
+174-DE-M√∂nchengladbach,Mönchengladbach,DE,314,0%,314,2,EEA,1,0.00%,0.14
+44066-DE-Frankfurt am Main,Frankfurt,DE,314,0%,314,2,EEA,1,0.00%,0.14
+45102-DE-Frankfurt am Main,Frankfurt,DE,314,0%,314,2,EEA,1,0.00%,0.14
+47447-DE-Wiesbaden,Wiesbaden,DE,314,0%,314,2,EEA,1,0.00%,0.14
+8220-DE-Frankfurt am Main,Frankfurt,DE,314,0%,314,2,EEA,1,0.00%,0.14
+29802-ES-Madrid,Madrid,ES,177,0%,177,1,EEA,1,0.00%,0.08
+3339-ES-Elda,Elda,ES,177,0%,177,1,EEA,1,0.00%,0.08
+21409-FR-Paris,Paris,FR,60,0%,60,1,EEA,1,0.00%,0.03
+21409-FR-Trappes,Trappes,FR,60,0%,60,1,EEA,1,0.00%,0.03
+12876-FR-Paris,Paris,FR,60,0%,60,1,EEA,1,0.00%,0.03
+35540-FR-Paris,Paris,FR,60,0%,60,1,EEA,1,0.00%,0.03
+16509-FR-Paris,Paris,FR,60,0%,60,1,EEA,1,0.00%,0.03
+35661-FR-Lille,Lille,FR,60,0%,60,1,EEA,1,0.00%,0.03
+16509-GB-London,London,GB/EN,228,0%,228,1,EEA,1,0.00%,0.1
+55081-GB-London,London,GB/EN,228,0%,228,1,EEA,1,0.00%,0.1
+15830-GB-Great Malvern,Great Malvern,GB/EN,228,0%,228,1,EEA,1,0.00%,0.1
+396356-GB-London,London,GB/EN,228,0%,228,1,EEA,1,0.00%,0.1
+211091-GB-Stanmore,Stanmore,GB/EN,228,0%,228,1,EEA,1,0.00%,0.1
+31463-GB-Hayes,Hayes,GB/EN,228,0%,228,1,EEA,1,0.00%,0.1
+51945-GB-London,London,GB/EN,228,0%,228,1,EEA,1,0.00%,0.1
+41477-GB-Notting Hill Gate,London,GB/EN,228,0%,228,1,EEA,1,0.00%,0.1
+50340-GB-London,London,GB/EN,228,0%,228,1,EEA,1,0.00%,0.1
+23881-HK-Asia/Hong_Kong,Hong Kong,HK,710,0%,710,3,HK Electric,1,0.00%,0.32
+54825-HK-Central,Hong Kong,HK,710,0%,710,3,HK Electric,1,0.00%,0.32
+54825-HK-Nai Chung,Hong Kong,HK,710,0%,710,3,HK Electric,1,0.00%,0.32
+9381-HK-Wong Tai Sin,Hong Kong,HK,710,0%,710,3,HK Electric,1,0.00%,0.32
+136052-ID-Asia/Jakarta,Jakarta,ID,755,0%,755,3,CF,1,0.00%,0.34
+39122-IE-Dublin,Dublin,IE,281,0%,281,2,EEA,1,0.00%,0.13
+24560-IN-Mumbai,Mumbai,IN,743,0%,743,3,CF,1,0.00%,0.33
+29802-IN-Mumbai,Mumbai,IN,743,0%,743,3,CF,1,0.00%,0.33
+133296-IN-Asia/Kolkata,Kolkata,IN,743,0%,743,3,CF,1,0.00%,0.33
+30722-IT-Brusaporto,Brusaporto,IT,216,0%,216,1,EEA,1,0.00%,0.1
+30722-IT-Palermo,Palermo,IT,216,0%,216,1,EEA,1,0.00%,0.1
+54825-JP-Asia/Tokyo,Tokyo,JP,496,0%,496,2,UNFCC,1,0.00%,0.22
+16509-KR-Incheon,Incheon,KR,517,0%,517,3,CF,1,0.00%,0.23
+4766-KR-Yongdu-dong,Yongdu-dong,KR,517,0%,517,3,CF,1,0.00%,0.23
+3786-KR-Seoul,Seoul,KR,517,0%,517,3,CF,1,0.00%,0.23
+61272-LT-Vilnius,Vilnius,LT,165,0%,165,1,EEA,1,0.00%,0.07
+59642-LT-Europe/Vilnius,Vilnius,LT,165,0%,165,1,EEA,1,0.00%,0.07
+16125-LT-≈†iauliai,Siauliai,LT,165,0%,165,1,EEA,1,0.00%,0.07
+8285-LV-Europe/Riga,Riga,LV,113,0%,113,1,EEA,1,0.00%,0.05
+58061-NL-Amsterdam,Amsterdam,NL,333,0%,333,2,EEA,1,0.00%,0.15
+33438-NL-Amsterdam,Amsterdam,NL,333,0%,333,2,EEA,1,0.00%,0.15
+57043-NL-Amsterdam,Amsterdam,NL,333,0%,333,2,EEA,1,0.00%,0.15
+50245-NL-Europe/Amsterdam,Amsterdam,NL,333,0%,333,2,EEA,1,0.00%,0.15
+14576-NL-Meppel,Meppel,NL,333,0%,333,2,EEA,1,0.00%,0.15
+12741-PL-Chodzież,Chodziez,PL,710,0%,710,3,EEA,1,0.00%,0.32
+39507-PL-Nowe Chechlo,Nowe Chechlo,PL,710,0%,710,3,EEA,1,0.00%,0.32
+9009-RO-Europe/Bucharest,Bucharest,RO,255,0%,255,2,EEA,1,0.00%,0.11
+41536-RO-Europe/Bucharest,Bucharest,RO,255,0%,255,2,EEA,1,0.00%,0.11
+28925-RO-Odorheiu Secuiesc,Odorheiu Secuiesc,RO,255,0%,255,2,EEA,1,0.00%,0.11
+9050-RO-Rodna,Rodna,RO,255,0%,255,2,EEA,1,0.00%,0.11
+29182-RU-Europe/Moscow,Moscow,RU,362,0%,362,2,Statista,1,0.00%,0.16
+41661-RU-Chelyabinsk,Chelyabinsk,RU,362,0%,362,2,Statista,1,0.00%,0.16
+59713-RU-Kursk,Kursk,RU,362,0%,362,2,Statista,1,0.00%,0.16
+15440-RU-Europe/Moscow,Moscow,RU,362,0%,362,2,Statista,1,0.00%,0.16
+29076-RU-St Petersburg,St Petersburg,RU,362,0%,362,2,Statista,1,0.00%,0.16
+47440-RU-Krasnogorsk,Krasnogorsk,RU,362,0%,362,2,Statista,1,0.00%,0.16
+197235-RU-Samara,Samara,RU,362,0%,362,2,Statista,1,0.00%,0.16
+3216-RU-Khabarovsk,Khabarovsk,RU,362,0%,362,2,Statista,1,0.00%,0.16
+47118-RU-Smolensk,Smolensk,RU,362,0%,362,2,Statista,1,0.00%,0.16
+3216-RU-Stary Oskol,Stary Oskol,RU,362,0%,362,2,Statista,1,0.00%,0.16
+213220-RU-Europe/Moscow,Moscow,RU,362,0%,362,2,Statista,1,0.00%,0.16
+51604-RU-Yekaterinburg,Yekaterinaburg,RU,362,0%,362,2,Statista,1,0.00%,0.16
+12668-RU-Yekaterinburg,Yekaterinaburg,RU,362,0%,362,2,Statista,1,0.00%,0.16
+12389-RU-Yekaterinburg,Yekaterinaburg,RU,362,0%,362,2,Statista,1,0.00%,0.16
+42775-RU-St Petersburg,St Petersburg,RU,362,0%,362,2,Statista,1,0.00%,0.16
+56981-RU-Tomsk,Tomsk,RU,362,0%,362,2,Statista,1,0.00%,0.16
+14061-SG-Singapore,Singapore,SG,408,0%,408,2,EMA,1,0.00%,0.18
+38532-SG-Asia/Singapore,Singapore,SG,408,0%,408,2,EMA,1,0.00%,0.18
+20326-SG-Singapore,Singapore,SG,408,0%,408,2,EMA,1,0.00%,0.18
+54825-SG-Asia/Singapore,Singapore,SG,408,0%,408,2,EMA,1,0.00%,0.18
+54825-SG-Kampong Ubi,Singapore,SG,408,0%,408,2,EMA,1,0.00%,0.18
+54825-SG-Queenstown Estate,Singapore,SG,408,0%,408,2,EMA,1,0.00%,0.18
+3462-TW-Hsinchu,Hsinchu,TW,509,0%,509,2,MOEABOE,1,0.00%,0.23
+51803-UA-Lviv,Lviv,UA,393,0%,393,2,Statista,1,0.00%,0.18
+212695-UA-Lviv,Lviv,UA,393,0%,393,2,Statista,1,0.00%,0.18
+51500-UA-Lviv,Lviv,UA,393,0%,393,2,Statista,1,0.00%,0.18
+15497-UA-Europe/Kiev,Kyiv,UA,393,0%,393,2,Statista,1,0.00%,0.18
+21257-UA-Europe/Kiev,Kyiv,UA,393,0%,393,2,Statista,1,0.00%,0.18
+41018-UA-Europe/Kiev,Kyiv,UA,393,0%,393,2,Statista,1,0.00%,0.18
+56485-UA-Kyiv,Kyiv,UA,393,0%,393,2,Statista,1,0.00%,0.18
+12963-UA-Kyiv,Kyiv,UA,393,0%,393,2,Statista,1,0.00%,0.18
+24940-UA-Odessa,Odessa,UA,393,0%,393,2,Statista,1,0.00%,0.18
+19318-US-Scottsdale,Scottsdale,US (AZ),329,0%,329,2,USEPA,1,0.00%,0.15
+132203-US-Santa Clara,Santa Clara,US (CA),175,0%,175,1,USEPA,1,0.00%,0.08
+14061-US-Santa Clara,Santa Clara,US (CA),175,0%,175,1,USEPA,1,0.00%,0.08
+29802-US-Los Angeles,Los Angeles,US (CA),175,0%,175,1,USEPA,1,0.00%,0.08
+20115-US-Pasadena,Pasadena,US (CA),175,0%,175,1,USEPA,1,0.00%,0.08
+20326-US-Los Angeles,Los Angeles,US (CA),175,0%,175,1,USEPA,1,0.00%,0.08
+54825-US-Santa Clara,Santa Clara,US (CA),175,0%,175,1,USEPA,1,0.00%,0.08
+6939-US-Napa,Napa,US (CA),175,0%,175,1,USEPA,1,0.00%,0.08
+19318-US-Wilmington,Wilmington,US (DE),338,0%,338,2,USEPA,1,0.00%,0.15
+13576-US-Brandon,Brandon,US (FL),391,0%,391,2,USEPA,1,0.00%,0.17
+19318-US-Fort Lauderdale,Fort Lauderdale,US (FL),391,0%,391,2,USEPA,1,0.00%,0.17
+19318-US-Miami,Miami,US (FL),391,0%,391,2,USEPA,1,0.00%,0.17
+5650-US-Palm Harbor,Palm Harbor,US (FL),397,0%,397,2,USEPA,1,0.00%,0.18
+19318-US-Pompano Beach,Pompano Beach,US (FL),397,0%,397,2,USEPA,1,0.00%,0.18
+7018-US-Miami,Miami,US (FL),397,0%,397,2,USEPA,1,0.00%,0.18
+22646-US-Kingsland,Kingsland,US (GA),323,0%,323,2,USEPA,1,0.00%,0.14
+23470-US-America/Chicago,Chicago,US (IL),328,0%,328,2,USEPA,1,0.00%,0.15
+59210-US-America/Chicago,Chicago,US (IL),328,0%,328,2,USEPA,1,0.00%,0.15
+29802-US-America/Chicago,Chicago,US (IL),328,0%,328,2,USEPA,1,0.00%,0.15
+29802-US-Chicago,Chicago,US (IL),328,0%,328,2,USEPA,1,0.00%,0.15
+20278-US-West Chicago,Chicago,US (IL),328,0%,328,2,USEPA,1,0.00%,0.15
+27589-US-America/Chicago,Chicago,US (IL),328,0%,328,2,USEPA,1,0.00%,0.15
+30600-US-Bloomington,Bloomington,US (IL),328,0%,328,2,USEPA,1,0.00%,0.15
+32097-US-America/Chicago,Chicago,US (IL),328,0%,328,2,USEPA,1,0.00%,0.15
+21859-US-America/Chicago,Chicago,US (IL),328,0%,328,2,USEPA,1,0.00%,0.15
+396998-US-America/Chicago,Chicago,US (IL),328,0%,328,2,USEPA,1,0.00%,0.15
+397423-US-Chicago,Chicago,US (IL),328,0%,328,2,USEPA,1,0.00%,0.15
+54825-US-Aurora,Aurora,US (IL),328,0%,328,2,USEPA,1,0.00%,0.15
+17210-US-Melrose Park,Melrose Park,US (IL),328,0%,328,2,USEPA,1,0.00%,0.15
+53264-US-Huntley,Huntley,US (IL),328,0%,328,2,USEPA,1,0.00%,0.15
+6939-US-America/Chicago,Chicago,US (IL),328,0%,328,2,USEPA,1,0.00%,0.15
+7018-US-Channahon,Channanhon,US (IL),328,0%,328,2,USEPA,1,0.00%,0.15
+7922-US-Macomb,Macomb,US (IL),328,0%,328,2,USEPA,1,0.00%,0.15
+701-US-Stow,Stow,US (MA),351,0%,351,2,USEPA,1,0.00%,0.16
+53292-US-Troy,Troy,US (MI),458,0%,458,2,USEPA,1,0.00%,0.2
+209-US-Minneapolis,Minneapolis,US (MN),398,0%,398,2,USEPA,1,0.00%,0.18
+19318-US-Cassville,Cassville,US (MO),721,0%,721,3,USEPA,1,0.00%,0.32
+40021-US-St Louis,St Louis,US (MO),721,0%,721,3,USEPA,1,0.00%,0.32
+11524-US-Durham,Durham,US (NC),352,0%,352,2,USEPA,1,0.00%,0.16
+397423-US-Charlotte,Charlotte,US (NC),352,0%,352,2,USEPA,1,0.00%,0.16
+22773-US-Omaha,Omaha,US (NE),463,0%,463,2,USEPA,1,0.00%,0.21
+174-US-Omaha,Omaha,US (NE),463,0%,463,2,USEPA,1,0.00%,0.21
+7922-US-Manchester,Manchester,US (NH),114,0%,114,1,USEPA,1,0.00%,0.05
+18450-US-Penns Grove,Penns Grove,US (NJ),247,0%,247,1,USEPA,1,0.00%,0.11
+19318-US-Asbury Park,Asbury Park,US (NJ),247,0%,247,1,USEPA,1,0.00%,0.11
+19318-US-Summit,Summit,US (NJ),247,0%,247,1,USEPA,1,0.00%,0.11
+19318-US-Cherry Hill,Cherry Hill,US (NJ),247,0%,247,1,USEPA,1,0.00%,0.11
+19318-US-Orange,Orange,US (NJ),247,0%,247,1,USEPA,1,0.00%,0.11
+19318-US-River Edge,River Edge,US (NJ),247,0%,247,1,USEPA,1,0.00%,0.11
+701-US-Cranford,Cranford,US (NJ),247,0%,247,1,USEPA,1,0.00%,0.11
+18450-US-New York,New York,US (NY),171,0%,171,1,USEPA,1,0.00%,0.08
+14618-US-America/New_York,New York,US (NY),171,0%,171,1,USEPA,1,0.00%,0.08
+19318-US-The Bronx,New York,US (NY),171,0%,171,1,USEPA,1,0.00%,0.08
+19318-US-Yonkers,Yonkers,US (NY),171,0%,171,1,USEPA,1,0.00%,0.08
+701-US-Brooklyn,New York,US (NY),171,0%,171,1,USEPA,1,0.00%,0.08
+13737-US-Flushing,New York,US (NY),171,0%,171,1,USEPA,1,0.00%,0.08
+701-US-Scarsdale,Scarsdale,US (NY),171,0%,171,1,USEPA,1,0.00%,0.08
+20278-US-Rock Creek,Rock Creek,US (OH),562,0%,562,3,USEPA,1,0.00%,0.25
+22439-US-Beaverton,Beaverton,US (OR),324,0%,324,2,USEPA,1,0.00%,0.14
+22439-US-Portland,Portland,US (OR),324,0%,324,2,USEPA,1,0.00%,0.14
+701-US-Philadelphia,Philadelphia,US (PA),343,0%,343,2,USEPA,1,0.00%,0.15
+16591-US-Austin,Austin,US (TX),413,0%,413,2,USEPA,1,0.00%,0.18
+19318-US-Corpus Christi,Corpus Christi,US (TX),413,0%,413,2,USEPA,1,0.00%,0.18
+29802-US-Dallas,Dallas,US (TX),413,0%,413,2,USEPA,1,0.00%,0.18
+29802-US-Houston,Houston,US (TX),413,0%,413,2,USEPA,1,0.00%,0.18
+3900-US-Kyle,Kyle,US (TX),413,0%,413,2,USEPA,1,0.00%,0.18
+397423-US-Dallas,Dallas,US (TX),413,0%,413,2,USEPA,1,0.00%,0.18
+20326-US-Dallas,Dallas,US (TX),413,0%,413,2,USEPA,1,0.00%,0.18
+18450-US-Park City,Park City,US (UT),723,0%,723,3,USEPA,1,0.00%,0.32
+24961-US-Vienna,Vienna,US (VA),288,0%,288,2,USEPA,1,0.00%,0.13
+30633-US-Manassas,Manassas,US (VA),288,0%,288,2,USEPA,1,0.00%,0.13
+206264-US-Ashburn,Ashburn,US (VA),288,0%,288,2,USEPA,1,0.00%,0.13
+40676-US-Ashburn,Ashburn,US (VA),288,0%,288,2,USEPA,1,0.00%,0.13
+20055-US-Bellevue,Bellevue,US (WA),135,0%,135,1,USEPA,1,0.00%,0.06
+20326-US-Columbia,Columbia,US (WA),135,0%,135,1,USEPA,1,0.00%,0.06
+45899-VN-Hanoi,Hanoi,VN,624,0%,624,3,MNRE,1,0.00%,0.28
